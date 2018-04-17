@@ -1,6 +1,6 @@
 #write your code here
 
-def countdown
+def countdown(number)
   greeting = "HAPPY NEW YEAR!"
   count = second
   while number > 0
